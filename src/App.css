@@ -1,0 +1,27 @@
+.app{
+padding: 10px;
+}
+
+.myseparator {
+  border: 1px solid gray;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.menu-item {
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  border-radius: 6px;
+  background-color: gray; /* Green */
+  color: white;
+  font-size: 14px;
+  text-decoration: none;
+  text-align: center;
+  padding: 10px 20px;
+  margin-right: 10px;
+}
+
+.menu-item:hover {
+  border: 1px solid gray;
+}

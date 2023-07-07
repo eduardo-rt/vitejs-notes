@@ -1,0 +1,30 @@
+.myseparator {
+  border: 1px solid gray;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.myinput {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+
+.mybutton {
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  border-radius: 6px;
+  background-color: #4caf50; /* Green */
+  color: white;
+  font-size: 14px;
+  text-decoration: none;
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.mybutton:hover {
+  border: 1px solid gray;
+}
